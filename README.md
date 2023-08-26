@@ -4,7 +4,6 @@ I am a versatilist and easily adapt to different hats ( Web Developer and beginn
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 Software engineering student at LIMU Uni in Benghazi with one year left to graduate. Proven ability to learn new technologies quickly and apply them to solve problems. Strong problem-solving and analytical skills. Passionate about building innovative software solutions.
